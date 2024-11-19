@@ -2,7 +2,7 @@
 ## Team members: <br>
 Radhika Raghuwanshi - G32395729 Github username: GWRAD <br>
 Divya Sree Vadlamudi - G48698217 Github username: DivyaSreeVadlamudi <br>
-## **Objectives: <br>
+## Objectives: <br>
 1. Detect and Localize Animals. <br>
 2. Use a CNN-based object detection model to detect animals in wildlife images and videos, drawing bounding boxes around them. <br>
 3. Improve Accuracy through Pre-trained Models. <br>
