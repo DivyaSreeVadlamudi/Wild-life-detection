@@ -2,6 +2,11 @@
 ## Team members: <br>
 Radhika Raghuwanshi - G32395729 Github username: GWRAD <br>
 Divya Sree Vadlamudi - G48698217 Github username: DivyaSreeVadlamudi <br>
+# Object Detection on Animal Dataset <br>
+This project outlines the process of training and evaluating a YOLOv8 model for object detection using an animal dataset. The goal is to recognize and classify objects (animals) in images. The training involved using annotated images with bounding boxes, which are crucial for teaching the model to localize objects within an image. Bounding boxes are drawn around the objects (animals) in the dataset images, and these serve as ground truth for the model to learn object localization.
+
+To enhance training efficiency, a pre-trained YOLOv8 model was used as a starting point. Transfer learning with a pre-trained model allows the model to leverage previously learned features from a large dataset (e.g., COCO dataset) and fine-tune on the specific animal dataset, improving performance and reducing the amount of time and data required for training.
+
 ## Objectives: <br>
 1. Detect and Localize Animals. <br>
 2. Use a CNN-based object detection model to detect animals in wildlife images , drawing bounding boxes around them. <br>
@@ -21,4 +26,5 @@ Use standard evaluation metrics such as  precision, and recall for bounding box 
     Images: Each subclass contains multiple images representing a particular animal. 
     Labels : Each subclass contains labels of their corresponding images. 
   
+
 
