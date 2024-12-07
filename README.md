@@ -25,6 +25,8 @@ Use standard evaluation metrics such as  precision, and recall for bounding box 
     Class Selection: Due to the large size of the dataset, we have selected only 5 classes ('Cheetah', 'Fox', 'Jaguar', 'Lion', 'Tiger') for training. This decision was made to simplify the training process and reduce the computational resources required. By focusing on a smaller subset of classes, the model can be trained efficiently
     Images: Each subclass contains multiple images representing a particular animal. 
     Labels : Each subclass contains labels of their corresponding images. 
-  
+
+  # Result Folder: <br>
+  Google drive link - <a>https://drive.google.com/drive/folders/1w_7c4IsCJT0zRTi4rOQc7xvKfXmP7Hz0?usp=sharing <a>
 
 
