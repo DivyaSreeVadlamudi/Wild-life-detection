@@ -29,4 +29,5 @@ Use standard evaluation metrics such as  precision, and recall for bounding box 
   # Result Folder: <br>
   Google drive link - <a>https://drive.google.com/drive/folders/1w_7c4IsCJT0zRTi4rOQc7xvKfXmP7Hz0?usp=sharing <a>
 
-
+ # Colab Notebook: <br>
+ link: https://colab.research.google.com/drive/1kgJs7EbkJG5AUDidbtHBD3ypGIJQag4d?usp=sharing
